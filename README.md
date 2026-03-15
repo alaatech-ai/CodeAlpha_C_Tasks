@@ -14,5 +14,7 @@ VIDEO DEMONSTRATION:
 
 ---
 ABOUT ME:
-## **NAME :** ALAA OBEID
-## **LINKEDIN :** "https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+
+**NAME :** ALAA OBEID
+---
+**LINKEDIN :** "https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
